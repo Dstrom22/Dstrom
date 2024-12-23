@@ -2961,7 +2961,7 @@ input, select, textarea {
 				}
 
 			.gallery a.portrait img {
-				width: 100%;
+				height: 100%;
 			}
 
 		.gallery .modal {
